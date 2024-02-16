@@ -1,0 +1,39 @@
+input {
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+    color: white;
+}
+
+td, th{
+    padding: 10px;
+    text-align: center;
+}
+.kiri{
+    text-align: left;
+}
+
+.create{
+    background-color: #3a9569;
+}
+
+.update{
+    background-color: #378ec0;
+}
+
+.delete{
+    background-color: #d54c49;
+}
+
+.logout{
+    background-color: red;
+}
+
+.login{
+    background-color: #2196f3;
+}
+
+.tebal{
+    font-weight: bold;
+}

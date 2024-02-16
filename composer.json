@@ -1,0 +1,15 @@
+{
+    "name": "uph-22si1-web/todo",
+    "autoload": {
+        "psr-4": {
+            "Uph22si1Web\\Todo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Des Dulianto",
+            "email": "desdulianto@gmail.com"
+        }
+    ],
+    "require": {}
+}
